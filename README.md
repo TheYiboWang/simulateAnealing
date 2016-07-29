@@ -20,5 +20,5 @@ Stopping criteria: the number of violations is 0.
 Max size on the test run is 22 by 22 which cost about 60 seconds.
 Data is saved in “chessboard0123.txt”.
 
-hw3main2.m
+main2.m
 * Compare simulated annealing method with coordinate descend method for the same 2-dimension function below. Number of samples is 50. 
